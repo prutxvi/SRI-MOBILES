@@ -45,3 +45,8 @@ next-env.d.ts
 *.swp
 *.swo
 *~
+
+*.log
+.tmp
+dist/
+build/
