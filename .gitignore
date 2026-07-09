@@ -41,3 +41,7 @@ next-env.d.ts
 
 .DS_Store
 *.local
+
+*.swp
+*.swo
+*~
