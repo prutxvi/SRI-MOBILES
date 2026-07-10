@@ -50,3 +50,8 @@ next-env.d.ts
 .tmp
 dist/
 build/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-*
