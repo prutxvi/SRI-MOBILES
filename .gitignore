@@ -55,3 +55,8 @@ build/
 .vscode/
 .idea/
 *.sublime-*
+
+# Secrets
+*.pem
+*.key
+.env.local
