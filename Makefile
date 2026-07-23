@@ -1,7 +1,4 @@
-.PHONY: dev
+.PHONY: test
 
-dev:
-	npm run dev
-
-build:
-	npm run build
+test:
+	pytest
